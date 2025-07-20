@@ -28,7 +28,7 @@ To demonstrate my data science and machine learning skills without using sensiti
 🚀 Deployment
 The application is deployed on Streamlit Cloud and can be accessed via the live link below. This deployment ensures easy access and demonstrates how machine learning models can be made interactive and user-friendly through a web interface.
 
-🔗 Live App: [Insert your Streamlit deployment link here]
+🔗 Live App: https://loan-approval-app-app-necfkvbccqyr7zd2tipihl.streamlit.app/
 
 You can also run the app locally by cloning this repository and running:
 bash
